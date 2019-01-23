@@ -11,7 +11,7 @@ class application
       resp.status = 400
     end
 
-    resp.finish
+      resp.finish
   end
 
 end
